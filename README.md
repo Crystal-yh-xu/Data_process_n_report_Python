@@ -2,7 +2,7 @@
 
 ## Table of contents
 * [General Info](#general-info)
-* [Delivery](#delivery)
+* [Report Info](#report-info)
 * [Delivery](#delivery)
 
 ## General Info
