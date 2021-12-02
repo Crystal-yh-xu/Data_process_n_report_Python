@@ -2,11 +2,11 @@
 
 ## Table of contents
 * [The Requirement](#the-requirement)
-* [Report Info](#report-info)
 * [Data Provided](#data-provided)
 * [Technology Instructions](#technology-instructions)
 * [Approach and Guidelines](#approach-and-guidelines)
-* [Required deliverables](#required-deliverables)
+* [Required Deliverables](#required-deliverables)
+* [Test Time](#test-time)
 
 
 ## The Requirement
@@ -68,15 +68,15 @@ Please design your work to showcase these aspects.
 Due to time constraints, we are unable to answer questions regarding this test. If you have any questions, the intention is that you should be able to derive the answers from the data with confidence and explain how you have done so. If any ambiguities remain, please document them, and make the assumptions that seem most reasonable to you.
 
 
-## Required deliverables
+## Required Deliverables
 
 Please provide us with three files, one for each of the following deliverables:
 
-* Results - The full results table, formatted as a CSV file.
-* Code - All of your code (with comments) that has been written to complete the task (including any additional code that does not contribute to the final output).
-* Assumptions and approach - Any notes detailing your approach and decisions made based on any assumptions you have relied on.
+* **Results** - The full results table, formatted as a CSV file.
+* **Code** - All of your code (with comments) that has been written to complete the task (including any additional code that does not contribute to the final output).
+* **Assumptions and approach** - Any notes detailing your approach and decisions made based on any assumptions you have relied on.
 
 
-## Test time
+## Test Time
 
 Upon receiving this test you, the testee, will have 8 hours to complete and to submit your deliverables. Deliverables received outside of the 8 hour test period will be disqualified at our discretion, and may only be evaluated at our discretion if there are any mitigating circumstances.
